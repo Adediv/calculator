@@ -1,0 +1,67 @@
+.div1{
+    height: 600px !important;
+    margin: auto !important;
+    background-color: black;
+    margin-top: 3% !important;
+    border: 10px solid grey;
+    border-radius: 10%;
+}
+#disp{
+    background-color: black;
+    height: 90px;
+    width: 100%;
+    font-size: 50px;
+    font-weight: bold;
+    border: none;
+    color: white;
+}
+.div2{
+    
+}
+.btn1{
+    height: 70px;
+    border-radius: 50%;
+    width: 70px;
+    border-radius: 50%;
+    font-size: 30px !important;
+    font-weight: bold !important;
+    background-color: grey ;
+    margin-top: 3%;
+    color: black !important;
+    text-align: center !important;
+}
+.btn2{
+    height: 70px;
+    border-radius: 50%;
+    width: 70px;
+    border-radius: 50%;
+    font-size: 30px !important;
+    font-weight: bold !important;
+    background-color: rgb(39, 38, 38);
+    color: white;
+    margin-top: 3%;
+    text-align: center !important;
+}
+.btn3{
+   height: 70px;
+   border-radius: 50%;
+   width: 70px;
+   border-radius: 50%;
+   font-size: 30px !important;
+    font-weight: bold !important; 
+    background-color: rgb(255, 196, 0);
+    color: white;
+    margin-top: 3%;
+    text-align: center !important;
+}
+.btn4{
+   height: 70px;
+   width: 140px;
+   border-radius: 50%; 
+   font-size: 30px !important;
+    font-weight: bold !important;
+    background-color: rgb(39, 38, 38);
+    color: white;
+    margin-top: 3%;
+    text-align: center !important;
+}
